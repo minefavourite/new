@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="trip-article-api" />
+        <module name="trip-article-server" />
+        <module name="trip-cache-api" />
+        <module name="trip-cache-server" />
+        <module name="trip-comment-api" />
+        <module name="trip-comment-server" />
+        <module name="trip-common" />
+        <module name="trip-member-api" />
+        <module name="trip-member-server" />
+        <module name="trip-mgrsite" />
+        <module name="trip-search-api" />
+        <module name="trip-search-server" />
+        <module name="trip-website" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="luowowo" target="1.8" />
+      <module name="trip-article-api" target="1.8" />
+      <module name="trip-article-server" target="1.8" />
+      <module name="trip-cache-api" target="1.8" />
+      <module name="trip-cache-server" target="1.8" />
+      <module name="trip-comment-api" target="1.8" />
+      <module name="trip-comment-server" target="1.8" />
+      <module name="trip-common" target="1.8" />
+      <module name="trip-member-api" target="1.8" />
+      <module name="trip-member-server" target="1.8" />
+      <module name="trip-mgrsite" target="1.8" />
+      <module name="trip-search-api" target="1.8" />
+      <module name="trip-search-server" target="1.8" />
+      <module name="trip-website" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

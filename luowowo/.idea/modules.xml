@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/luowowo.iml" filepath="$PROJECT_DIR$/luowowo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-article-api/trip-article-api.iml" filepath="$PROJECT_DIR$/../trip-article-api/trip-article-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-article-server/trip-article-server.iml" filepath="$PROJECT_DIR$/../trip-article-server/trip-article-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-cache-api/trip-cache-api.iml" filepath="$PROJECT_DIR$/../trip-cache-api/trip-cache-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-cache-server/trip-cache-server.iml" filepath="$PROJECT_DIR$/../trip-cache-server/trip-cache-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-comment-api/trip-comment-api.iml" filepath="$PROJECT_DIR$/../trip-comment-api/trip-comment-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-comment-server/trip-comment-server.iml" filepath="$PROJECT_DIR$/../trip-comment-server/trip-comment-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-common/trip-common.iml" filepath="$PROJECT_DIR$/../trip-common/trip-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-member-api/trip-member-api.iml" filepath="$PROJECT_DIR$/../trip-member-api/trip-member-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-member-server/trip-member-server.iml" filepath="$PROJECT_DIR$/../trip-member-server/trip-member-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-mgrsite/trip-mgrsite.iml" filepath="$PROJECT_DIR$/../trip-mgrsite/trip-mgrsite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-search-api/trip-search-api.iml" filepath="$PROJECT_DIR$/../trip-search-api/trip-search-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-search-server/trip-search-server.iml" filepath="$PROJECT_DIR$/../trip-search-server/trip-search-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trip-website/trip-website.iml" filepath="$PROJECT_DIR$/../trip-website/trip-website.iml" />
+    </modules>
+  </component>
+</project>
